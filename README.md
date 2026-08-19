@@ -1,4 +1,3 @@
 # spit
-uygvjhvjhzxv
-jzdvjkjvh
-jkffjksdkzfjh
+hle = "maj ranvir"
+print(hle)
